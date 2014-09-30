@@ -3,7 +3,7 @@ hello-world
 
 Just another repository.
 
-==========================================================INTRODUCTION============================================================
+==========================INTRODUCTION=============================
 
 ============================================================BRANCHES==============================================================
 When creating a repository, it has one master branch by default. This could be the only branch worked on and that's fine. Other ideas or features should be worked on in separate branches off the master allowing the master branch to stay in its current working state.
