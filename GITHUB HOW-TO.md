@@ -1,4 +1,4 @@
-hello-world
+GITHUB HOW-TO
 ===========
 
 Just another repository
